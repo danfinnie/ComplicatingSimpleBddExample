@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    simple_bdd (0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  simple_bdd
